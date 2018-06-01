@@ -1,0 +1,6 @@
+import numpy as np
+import cv2 as cv
+
+#Carga una imagen a color en escala de grises 
+
+img = cv.imread('',0);
